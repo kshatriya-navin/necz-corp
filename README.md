@@ -5,3 +5,13 @@ Recent corona epidamic changed the whole education functioning and we saw a huge
 but still no one is closer to the place where necz-corp had visioned.
 
 I have started again this project with purely my learning purpose. I wanted to learn new tech and implement their function and what best can happen if i start coding for my this dream project.
+
+Technologies to be used:-
+
+
+Front End: React, JS, CSS, HTML
+Backend: Java, hibernate, Spring boot, Cloud Tech (Service discovery, Circuit Breaker, Rate Limiter, Caching etc)
+Database: MySQL, GraphQL, In memory DB etc
+Architecture: Microservice
+
+Goal: To build india's first education social media platform which helps students in learning, taking batter decisions for their future, prociding all information etc.
